@@ -1,3 +1,3 @@
 # Confidentiality rules
 
-No private data is kept by this app
+The serifu android app collect no sensitive user data
